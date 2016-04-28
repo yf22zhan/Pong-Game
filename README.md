@@ -15,7 +15,7 @@ My own flare to it:
   
 Also because I used SFML 2.0 while the tutorial used 1.6, Some keywords and local code structure might be different but the idea is basically the same.
 
-***Visual Studio Project Dependencies Setup***
+*Visual Studio Project Dependencies Setup*
 
 Project Properties -> C/C++ -> Additional Include Directories -> $(ProjectDir)/include
 
