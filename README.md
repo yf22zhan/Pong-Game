@@ -15,6 +15,18 @@ My own flare to it:
   
 Also because I used SFML 2.0 while the tutorial used 1.6, Some keywords and local code structure might be different but the idea is basically the same.
 
+***Game Screenshots***
+
+<br>
+<img width="700" height="550" src="https://github.com/yf22zhan/Pong-Game/blob/master/screenshots/splash-screen.PNG" />
+<br>
+<br>
+<img width="700" height="550" src="https://github.com/yf22zhan/Pong-Game/blob/master/screenshots/menu.PNG" />
+<br>
+<br>
+<img width="700" height="550" src="https://github.com/yf22zhan/Pong-Game/blob/master/screenshots/game-start.PNG" />
+<br>
+
 ***Visual Studio Project Dependencies Setup***
 
 Project Properties -> C/C++ -> Additional Include Directories -> $(ProjectDir)/include
